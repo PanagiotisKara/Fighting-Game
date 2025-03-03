@@ -6,8 +6,7 @@ CSS
 HTML
 ```
 # Special Thanks to people created the models and uploaded them helping me to create this project...
-### Background
-https://opengameart.org/content/cyberpunk-street-environment
+### Background: [Link Text](#https://opengameart.org/content/cyberpunk-street-environment).
 ### Player 1
 https://opengameart.org/content/komato-berserker-bagedo-for-fighting-games
 ### Player 2
