@@ -12,7 +12,7 @@ HTML
 ### [HP Bars](https://opengameart.org/content/thorns-health-bar)
 ![Desktop2025 03 03-18 51 10 01-ezgif com-crop](https://github.com/user-attachments/assets/ce3a3e80-62cb-4051-be21-06b1dad59bad)
 # GAME RULES
-Each player has 100 HP
+Each player has 100 HP<br>
 Each player got 3 unique damage attacks
 1. Jump attack deals 10 damage
 2. Special Attack deals 20 damage
