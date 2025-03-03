@@ -5,7 +5,7 @@ Javascript
 CSS
 HTML
 ```
-# Special Thanks to people created the mdoels and uploaded them for free...
+# Special Thanks to people created the models and uploaded them helping me to create this project...
 ### Background
 https://opengameart.org/content/cyberpunk-street-environment
 ### Player 1
