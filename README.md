@@ -7,13 +7,9 @@ HTML
 ```
 # Special Thanks to people created the models and uploaded them helping me to create this project...
 ### [Background](https://opengameart.org/content/cyberpunk-street-environment)
-Background: [Link Text](#https://opengameart.org/content/cyberpunk-street-environment).
-### Player 1
-https://opengameart.org/content/komato-berserker-bagedo-for-fighting-games
-### Player 2
-https://opengameart.org/content/doom-komato-assassin-prototype-curvy-female
-### HP Bar
-https://opengameart.org/content/thorns-health-bar
+### [Player 1](https://opengameart.org/content/komato-berserker-bagedo-for-fighting-games)
+### [Player 2](https://opengameart.org/content/doom-komato-assassin-prototype-curvy-female)
+### [HP Bars](https://opengameart.org/content/thorns-health-bar)
 ![Desktop2025 03 03-18 51 10 01-ezgif com-crop](https://github.com/user-attachments/assets/ce3a3e80-62cb-4051-be21-06b1dad59bad)
 # GAME RULES
 Each player has 100 HP
